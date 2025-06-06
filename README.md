@@ -1,3 +1,4 @@
+[中文介绍点这里](README.zh-CN.md)
 # Appuploader – Upload iOS IPA to App Store Without Mac
 
 **Appuploader** is a powerful cross-platform tool designed to help iOS developers and cross-platform app developers upload `.ipa` files to the Apple App Store **without needing a Mac or Xcode**. Easily manage iOS certificates, provisioning profiles, screenshots, and localization—all from Windows, Linux, or macOS.
