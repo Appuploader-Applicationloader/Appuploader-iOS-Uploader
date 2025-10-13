@@ -5,19 +5,19 @@
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- ✅ **Upload .ipa to App Store** from **Windows**, **Linux**, or **Mac**
-- ✅ No need for **Xcode** or **Mac hardware**
-- ✅ Supports Apple certificate creation and management
-- ✅ Manage provisioning profiles easily
-- ✅ Batch upload App Store **screenshots**, **descriptions**, **localizations**
-- ✅ USB or QR Code testing installation on real iOS devices
-- ✅ Faster and simpler than Apple’s Application Loader
+- **Upload .ipa to App Store** from **Windows**, **Linux**, or **Mac**
+- No need for **Xcode** or **Mac hardware**
+- Supports Apple certificate creation and management
+- Manage provisioning profiles easily
+- Batch upload App Store **screenshots**, **descriptions**, **localizations**
+- USB or QR Code testing installation on real iOS devices
+- Faster and simpler than Apple’s Application Loader
 
 ---
 
-## 🧑‍💻 Who Is It For?
+## Who Is It For?
 
 - iOS developers
 - Cross-platform developers using tools like Flutter, Unity, Cordova, React Native
@@ -26,13 +26,13 @@
 
 ---
 
-## 📦 How It Works
+## How It Works
 
 Appuploader communicates directly with Apple's API servers to perform actions normally tied to Xcode or Mac-only tools. It securely handles your Apple ID, certificates, and IPA uploads.
 
 ---
 
-## 📸 Screenshot Upload & Localization
+## Screenshot Upload & Localization
 
 Easily batch upload:
 - App Store screenshots (for all iPhone/iPad sizes)
@@ -42,7 +42,7 @@ Easily batch upload:
 
 ---
 
-## 📱 Install & Test Your IPA on Devices
+## Install & Test Your IPA on Devices
 
 Use Appuploader to install `.ipa` files directly to iPhone or iPad for testing.  
 - USB installation (plug and install)  
@@ -50,7 +50,7 @@ Use Appuploader to install `.ipa` files directly to iPhone or iPad for testing.
 
 ---
 
-## 🔐 Certificate & Provisioning Management
+## Certificate & Provisioning Management
 
 Create and manage:
 - iOS Development Certificates
@@ -61,13 +61,12 @@ Works across different machines and for team collaboration.
 
 ---
 
-## 🌐 Website
-
-👉 [https://www.applicationloader.net/](https://www.applicationloader.net/)
+## Website
+[https://www.applicationloader.net/](https://www.applicationloader.net/)
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 Check our official site for complete guides and tutorials.
 
@@ -76,9 +75,3 @@ Check our official site for complete guides and tutorials.
 ## 💬 License
 
 Commercial license. Not open-source.
-
----
-
-## 📣 Keywords
-
-`upload ipa without mac`, `app store uploader`, `ios ipa upload tool`, `xcode alternative`, `ipa upload windows`, `ios certificate tool`, `app store screenshot batch uploader`, `cross platform ios upload`
