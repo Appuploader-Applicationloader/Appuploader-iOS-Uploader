@@ -71,9 +71,3 @@ Appuploader 通过 Apple 的官方 API 通信，安全地管理 Apple ID、证�
 ## 版权信息
 
 商业授权，非开源项目。
-
----
-
-## 关键词推荐（利于搜索）
-
-`ipa上传工具`，`无需Mac上架iOS`，`App Store上传助手`，`iOS证书申请工具`，`Application Loader替代方案`，`iOS自动上架`，`截图批量上传`
